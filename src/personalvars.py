@@ -74,6 +74,7 @@ def obey_dict():
         'Wedge': 'I obey... wait, are you Wedge from the mana source:tm:?',
         'Tatters': 'I won\'t obey, because people still refuse to pronounce Ghave as Gah-Vay... Sometimes Wizards is wrong. That \'H\' is there for a reason!',
         'Chemtails': 'I Obey, Chemtails, Don\'t hit me again please'
+        'IustitiaRex': '<:reeee:280478550841098250> GIVE ME TENDIES <:reeee:280478550841098250>'
         
         #  To add to the obey dict, please add a comma to the previous line and then follow the format of
         #  'Name':'Message'
